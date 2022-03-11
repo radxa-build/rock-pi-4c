@@ -5,7 +5,8 @@
 
 A collection of auto-generated images for Rock Pi 4C.
 
-* Armbian images will have name started with `Armbian`.
+* Armbian image will have name started with `Armbian`.
+* Legacy Radxa debos image can be found [here](https://github.com/radxa/rock-pi-images-released/releases).
 * Manjaro users can visit [here](https://github.com/manjaro-arm/rockpi4c-images).
 
 ## Where can I download the image?
