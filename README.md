@@ -6,6 +6,7 @@
 A collection of auto-generated images for Rock Pi 4C.
 
 * Armbian image will have name started with `Armbian`.
+* Current Radxa debos image can be found [here](https://github.com/radxa-build/rockpi-4b). User will need to replace 4B's dtb with 4C's dtb located under `/boot/dtbs/`.
 * Legacy Radxa debos image can be found [here](https://github.com/radxa/rock-pi-images-released/releases).
 * Manjaro users can visit [here](https://github.com/manjaro-arm/rockpi4c-images).
 
